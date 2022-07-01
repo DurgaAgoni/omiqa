@@ -1,0 +1,330 @@
+.container-fluid {
+    padding-left: 10%;
+
+}
+
+#title {
+    background-image: url(Omiqa/images/omiqaBGimage.PNG);
+}
+
+.icon {
+    color: #ffa095;
+
+
+}
+
+.inforhead {
+    text-align: center;
+}
+
+/* services */
+.card {
+    border-radius: 0px;
+}
+
+#services {
+    background-color: #dddfe2;
+    text-align: center;
+    padding: 1px 15px;
+}
+
+.serhead h2 {
+    margin-top: 25px;
+}
+
+.serhead p {
+    margin-top: 1.5rem;
+}
+
+#myc {
+    border-radius: 0px;
+    margin: 5%;
+    background-color: rgb(10, 6, 31);
+}
+
+
+#myb {
+    border-radius: 5px;
+    background-color: #ffa095;
+
+}
+
+.btn-lg {
+    padding: 0.5rem 1rem;
+}
+
+#serh h2 {
+    font-family: 'Baloo 2', cursive;
+
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.card h3 {
+    margin-top: 5%;
+    color: #ffa095;
+    font-weight: 600;
+    font-family: 'Baloo 2', cursive;
+    font-size: 30px;
+}
+
+.card p {
+    color: rgb(212, 212, 209);
+    font-family: 'Baloo 2', cursive;
+    font-size: 20px;
+}
+
+#serp {
+    color: rgb(82, 82, 79);
+    font-family: 'Baloo 2', cursive;
+    font-size: 25px;
+    font-weight: 400;
+    padding: 0% 10% 2%;
+}
+
+
+
+/* get in touch */
+#touch {
+    background-color: rgb(10, 6, 31);
+    text-align: center;
+}
+
+.icont {
+    color: rgb(212, 212, 209);
+    margin-bottom: 2rem;
+}
+
+#touchh {
+    font-family: 'Baloo 2', cursive;
+    color: rgb(212, 212, 209);
+    font-weight: 600;
+    font-size: 40px;
+}
+
+#touchp {
+    font-family: 'Baloo 2', cursive;
+    color: rgb(212, 212, 209);
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0% 10%;
+}
+
+#myt {
+    background-color: #ffa095;
+    border-radius: 0%;
+    margin: 3rem 1rem;
+}
+
+/* informatics */
+
+#infor {
+    text-align: center;
+}
+
+.iconi {
+    color: rgb(10, 6, 31);
+    margin-bottom: 2rem;
+}
+
+#inforh h2 {
+    font-family: 'Baloo 2', cursive;
+    color: rgb(10, 6, 31);
+    font-weight: 600;
+    font-size: 40px;
+    margin: 0rem 3rem;
+}
+
+#inforp p {
+    font-family: 'Baloo 2', cursive;
+    color: rgb(94, 94, 89);
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0% 15%;
+}
+
+#inforp {
+    margin: 2rem 1rem;
+}
+
+.info-box h3 {
+    font-family: 'Baloo 2', cursive;
+    color: rgb(10, 6, 31);
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 1rem;
+
+}
+
+.info-p {
+    font-family: 'Baloo 2', cursive;
+    color: rgb(94, 94, 89);
+    font-weight: 400;
+    font-size: 20px;
+
+}
+
+.info-box {
+    margin: 1rem 0rem;
+}
+
+/* insight */
+
+#insight-row {
+    margin: 2% 10%;
+
+}
+
+.iconin {
+    color: #ffa095;
+
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+
+}
+
+span {
+    font-weight: bold;
+}
+
+.insight-box p {
+    padding: 0.5rem;
+    font-family: 'Baloo 2', cursive;
+    color: rgb(94, 94, 89);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#insight h2 {
+    font-family: 'Baloo 2', cursive;
+    color: rgb(10, 6, 31);
+    font-weight: 600;
+    font-size: 40px;
+    margin-left: 3rem;
+    margin-right: 3rem;
+
+    text-align: center;
+}
+
+#cicon {
+    text-align: center;
+}
+
+#insight {
+    background-color: #dddfe2;
+}
+
+/* carousel */
+#customers {
+    text-align: center;
+}
+
+.custicon {
+    color: #ffa095;
+}
+
+#custh h2 {
+    font-family: 'Baloo 2', cursive;
+    color: rgb(10, 6, 31);
+    font-weight: 600;
+    font-size: 50px;
+    margin: 2rem 3rem 0rem;
+}
+
+.mycarou {
+
+    margin-bottom: 2rem;
+    min-height: 20rem;
+}
+
+#each-item p {
+    font-family: 'Baloo 2', cursive;
+    color: rgb(10, 6, 31);
+    font-weight: 600;
+    font-size: 20px;
+
+
+}
+
+#each-item cite {
+
+    font-family: 'Baloo 2', cursive;
+    color: rgb(94, 94, 89);
+    font-weight: 400;
+    font-size: 20px;
+
+}
+
+#each-item {
+    padding: 4% 10%;
+}
+
+
+
+.fa-chevron-left , .fa-chevron-right{
+    
+color: #ffa095;
+} 
+.carousel-control-next, .carousel-control-prev{
+    opacity: 1 !important;
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='#ffa095' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-indicators li {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+    color: red !important;
+}
+
+.iconcolor {
+    color: #ffa095;
+    outline: #ffa095;
+}
+
+@media only screen and (min-width: 375px) and (max-width: 750px) {
+    .mycarou {
+
+        min-height: 25rem;
+    }
+    .omiqa-logo{
+        width: 500;
+        height: 100;
+    }
+}
+.nav-link{
+    font-family: 'Baloo 2', cursive;
+    color: rgb(10, 6, 31);
+    font-weight: 600;
+    font-size: 25px;
+}
+#mybb{
+    background-color: rgb(10, 6, 31);
+    color: #dddfe2;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 2rem;
+}
+.row{
+    text-align: center;
+}
+.row h1{
+    color: rgb(10, 6, 31);
+    
+    font-family: 'Baloo 2', cursive;
+    font-weight: 600;
+    font-size: 40px;
+    padding: 1.5rem 0.7rem 0.7rem;
+}
+.row h3{
+    color: rgb(10, 6, 31);
+    
+    font-family: 'Baloo 2', cursive;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 1rem;
+}
